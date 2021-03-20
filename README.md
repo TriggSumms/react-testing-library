@@ -3,7 +3,7 @@
 
 <a href="https://www.emojione.com/emoji/1f410">
   <img
-    height="80"
+    height="90"
     width="80"
     alt="goat"
     src="https://raw.githubusercontent.com/testing-library/react-testing-library/master/other/goat.png"
